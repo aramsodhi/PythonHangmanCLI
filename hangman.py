@@ -1,5 +1,5 @@
 import random
-from colorama import Fore, Back, Style
+from colorama import Fore
 
 word_list = [
     'wares',
